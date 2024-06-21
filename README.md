@@ -5,7 +5,7 @@
 <h3>A Systems Engineer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="center">
-<a href="#"><img src="https://i.pinimg.com/originals/10/2a/b1/102ab1178832229a153817e8820b87f8.gif" alt="Coder GIF" width="1000" height="400"></a>
+<a href="#"><img src="https://i.pinimg.com/originals/6d/48/48/6d4848db88043d0fbc207524c915bcad.gif" alt="Coder GIF" width="1000" height="400"></a>
 </p>
 
 - 🌱 I’m currently learning **Linux**
