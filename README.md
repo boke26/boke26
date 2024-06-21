@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 🔭 I’m currently studying at **UPC(Peuvian Private University of Applied Science**
+- 🔭 I’m currently studying at **UPC(Peruvian Private University of Applied Science**
 
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript**
 
